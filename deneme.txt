@@ -3,6 +3,9 @@
 30.satir
 40.satir
 50.satir
+51.satir
+52.satir
+53.satir
 60.satir
 70.satir
 80.satir
